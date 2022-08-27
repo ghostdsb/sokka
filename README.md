@@ -1,6 +1,7 @@
 ## Sokka 
 
 Aim: A Chess Engine
+---
 
 > cargo run
 
