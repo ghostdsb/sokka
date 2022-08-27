@@ -3,6 +3,7 @@
 Aim: A Chess Engine
 ---
 
+Run project:
 > cargo run
 
 Step 1:
