@@ -15,3 +15,4 @@ result:
 
 TODO:
 - movement
+- kill
